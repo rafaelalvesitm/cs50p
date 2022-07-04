@@ -1,4 +1,4 @@
-Este repositório contém o código que desenvolvi para a solução dos "Conjuntos de problemas" do curso [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/), que mostra como programar utilizando a linguagem [[Python]]. O curso é produzido em inglês pela Universidade de Harvard e pode ser acompanhado tanto [pelo site oficial do curso]((https://cs50.harvard.edu/python/2022/), quanto pela plataforma [edX](https://www.edx.org/). 
+Este repositório contém o código que desenvolvi para a solução dos "Conjuntos de problemas" do curso [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/), que mostra como programar utilizando a linguagem [[Python]]. O curso é produzido em inglês pela Universidade de Harvard e pode ser acompanhado tanto [pelo site oficial do curso](https://cs50.harvard.edu/python/2022/), quanto pela plataforma [edX](https://www.edx.org/). 
 
 Você pode conferir [as minhas notas sobre o curso no meu site pessoal](https://publish.obsidian.md/rafaelalvesitm/Cursos/CS50p+Introduction+to+programming+with+Python/CS50p+Introduction+to+programming+with+Python).
 
